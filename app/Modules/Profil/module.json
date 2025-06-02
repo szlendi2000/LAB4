@@ -1,0 +1,12 @@
+{
+  "name": "Profil",
+  "slug": "profil",
+  "version": "1.0.0",
+  "description": "Moduł do zarządzania profilem użytkownika",
+  "enabled": false,
+  "autoload": {
+    "psr-4": {
+      "Modules\\Profil\\": "Modules/Profil/"
+    }
+  }
+}
